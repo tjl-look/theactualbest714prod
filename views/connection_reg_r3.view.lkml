@@ -1,4 +1,5 @@
 view: connection_reg_r3 {
+  #ha!!!
   sql_table_name: demo_db.connection_reg_r3 ;;
 
   dimension: created_at {
