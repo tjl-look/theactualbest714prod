@@ -1,6 +1,7 @@
 connection: "thelook"
 
 ##this change should be captured
+#Yo
 
 # include all the views
 include: "/views/**/*.view"
