@@ -8,6 +8,6 @@ project_name: "tim_test"
 # }
 
 constant: the_best_constant {
-
+value: "new_value"
 
 }
