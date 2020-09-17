@@ -6,6 +6,7 @@ view: order_items {
     primary_key: yes
     type: number
     sql: ${TABLE}.id ;;
+    tags: ["user_id"]
   }
 
   dimension: inventory_item_id {
